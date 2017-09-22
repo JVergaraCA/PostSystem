@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "593848703597",
+    "firebase_url": "https://postfire-9f258.firebaseio.com",
+    "project_id": "postfire-9f258",
+    "storage_bucket": "postfire-9f258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593848703597:android:bdbfcb21a0348163",
+        "android_client_info": {
+          "package_name": "cl.wower.postfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593848703597-ig432vcv0a44q8fi568tfopnd5fp0mu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.wower.postfire",
+            "certificate_hash": "a499f1a16d8e563cd55d83f605f4b327440846ac"
+          }
+        },
+        {
+          "client_id": "593848703597-71p4hu8nru4rqiqbh02q85luhhp6kft0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjz2EZ2_57xgpWLMxJrTnOhsSRFMpT8iA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593848703597-71p4hu8nru4rqiqbh02q85luhhp6kft0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
